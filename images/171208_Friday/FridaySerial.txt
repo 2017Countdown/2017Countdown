@@ -1,0 +1,5 @@
+<a href="https://www.linkedin.com/learning/photo-critique-of-the-week" target= _blank"><img src="images/slider/01.jpg" alt="Slider Image 1" title="Photo Critique of the Week" /></a>
+<a href="https://www.linkedin.com/learning/photo-gear-weekly-2" target= _blank"><img src="images/slider/02.jpg" alt="Slider Image 2" title="Photo Gear Weekly" /></a>
+<a href="https://www.linkedin.com/learning/android-development-tips-weekly" target= _blank"><img src="images/slider/03.jpg" alt="Slider Image 3" title="Android Development Tips Weekly" /></a>
+<a href="https://www.linkedin.com/learning/corporate-video-weekly" target= _blank"><img src="images/slider/04.jpg" alt="Slider Image 4" title="Corporate Video Weekly" /></a>
+<a href="https://www.linkedin.com/learning/final-cut-pro-x-weekly" target= _blank"><img src="images/slider/05.jpg" alt="Slider Image 5" title="Final Cut Pro X Weekly" /></a>

@@ -1,12 +1,12 @@
 <a href="https://www.linkedin.com/learning/personal-effectiveness-tips" target= _blank"><img src="images/slider/01.jpg" alt="Slider Image 1" title="Personal Effectiveness Tips" /></a>
-                    <a href="https://www.linkedin.com/learning/finance-and-accounting-tips-weekly" target= _blank"><img src="images/slider/02.jpg" alt="Slider Image 2" title="Finance and Accounting Tips Weekly" /></a>
-                    <a href="https://www.linkedin.com/learning/management-tips-weekly" target= _blank"><img src="images/slider/03.jpg" alt="Slider Image 3" title="Management Tips Weekly" /></a>
-                    <a href="https://www.linkedin.com/learning/time-management-tips-weekly" target= _blank"><img src="images/slider/04.jpg" alt="Slider Image 4" title="Time Management Tips Weekly" /></a>
-                    <a href="https://www.linkedin.com/learning/practical-ux-weekly" target= _blank"><img src="images/slider/05.jpg" alt="Slider Image 5" title="Practical UX Weekly" /></a>
-                    <a href="https://www.linkedin.com/learning/word-tips-weekly" target= _blank"><img src="images/slider/06.jpg" alt="Slider Image 6" title="Word Tips Weekly" /></a>
-                    <a href="https://www.linkedin.com/learning/monday-productivity-pointers" target= _blank"><img src="images/slider/07.jpg" alt="Slider Image 7" title="Monday Productivity Pointers" /></a>
-                    <a href="https://www.linkedin.com/learning/real-recording-school-weekly" target= _blank"><img src="images/slider/08.jpg" alt="Slider Image 8" title="Real Recording School Weekly" /></a>
-                    <a href="https://www.linkedin.com/learning/construction-industry-weekly" target= _blank"><img src="images/slider/09.jpg" alt="Slider Image 9" title="Construction Industry Weekly" /></a>
-                    <a href="https://www.linkedin.com/learning/training-tips-weekly" target= _blank"><img src="images/slider/10.jpg" alt="Slider Image 10" title="Training Tips Weekly" /></a>
-                    <a href="https://www.linkedin.com/learning/visual-studio-developer-tips" target= _blank"><img src="images/slider/11.jpg" alt="Slider Image 11" title="Visual Studio Developer Tips" /></a>
-                    <a href="https://www.linkedin.com/learning/php-tips-tricks-and-techniques" target= _blank"><img src="images/slider/12.jpg" alt="Slider Image 12" title="PHP Tips, Tricks and Techniques" /></a>
+<a href="https://www.linkedin.com/learning/finance-and-accounting-tips-weekly" target= _blank"><img src="images/slider/02.jpg" alt="Slider Image 2" title="Finance and Accounting Tips Weekly" /></a>
+<a href="https://www.linkedin.com/learning/management-tips-weekly" target= _blank"><img src="images/slider/03.jpg" alt="Slider Image 3" title="Management Tips Weekly" /></a>
+<a href="https://www.linkedin.com/learning/time-management-tips-weekly" target= _blank"><img src="images/slider/04.jpg" alt="Slider Image 4" title="Time Management Tips Weekly" /></a>
+<a href="https://www.linkedin.com/learning/practical-ux-weekly" target= _blank"><img src="images/slider/05.jpg" alt="Slider Image 5" title="Practical UX Weekly" /></a>
+<a href="https://www.linkedin.com/learning/word-tips-weekly" target= _blank"><img src="images/slider/06.jpg" alt="Slider Image 6" title="Word Tips Weekly" /></a>
+<a href="https://www.linkedin.com/learning/monday-productivity-pointers" target= _blank"><img src="images/slider/07.jpg" alt="Slider Image 7" title="Monday Productivity Pointers" /></a>
+<a href="https://www.linkedin.com/learning/real-recording-school-weekly" target= _blank"><img src="images/slider/08.jpg" alt="Slider Image 8" title="Real Recording School Weekly" /></a>
+<a href="https://www.linkedin.com/learning/construction-industry-weekly" target= _blank"><img src="images/slider/09.jpg" alt="Slider Image 9" title="Construction Industry Weekly" /></a>
+<a href="https://www.linkedin.com/learning/training-tips-weekly" target= _blank"><img src="images/slider/10.jpg" alt="Slider Image 10" title="Training Tips Weekly" /></a>
+<a href="https://www.linkedin.com/learning/visual-studio-developer-tips" target= _blank"><img src="images/slider/11.jpg" alt="Slider Image 11" title="Visual Studio Developer Tips" /></a>
+<a href="https://www.linkedin.com/learning/php-tips-tricks-and-techniques" target= _blank"><img src="images/slider/12.jpg" alt="Slider Image 12" title="PHP Tips, Tricks and Techniques" /></a>

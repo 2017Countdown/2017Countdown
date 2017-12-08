@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/learning/autocad-tips-tricks" target= _blank"><img src="images/slider/01.jpg" alt="Slider Image 1" title="AutoCAD: Tips & Tricks" /></a>
-                    <a href="https://www.linkedin.com/learning/3ds-max-tips-tricks-techniques" target= _blank"><img src="images/slider/02.jpg" alt="Slider Image 2" title="3ds Max: Tips, Tricks & Techniques" /></a>
-                    <a href="https://www.linkedin.com/learning/powerpoint-tips-weekly" target= _blank"><img src="images/slider/03.jpg" alt="Slider Image 3" title="PowerPoint Tips Weekly" /></a>
-                    <a href="https://www.linkedin.com/learning/sketchup-tips-tricks" target= _blank"><img src="images/slider/04.jpg" alt="Slider Image 4" title="SketchUp: Tips & Tricks" /></a>
-                    <a href="https://www.linkedin.com/learning/drawing-vector-graphics-laboratory" target= _blank"><img src="images/slider/05.jpg" alt="Slider Image 5" title="Drawing Vector Graphics Laboratory" /></a>
-                    <a href="https://www.linkedin.com/learning/photo-tools-weekly" target= _blank"><img src="images/slider/06.jpg" alt="Slider Image 6" title="Photo Tools Weekly" /></a>
-                    <a href="https://www.linkedin.com/learning/blender-tips-tricks-techniques" target= _blank"><img src="images/slider/07.jpg" alt="Slider Image 7" title="Blender: Tips, Tricks, & Techniques" /></a>
+<a href="https://www.linkedin.com/learning/3ds-max-tips-tricks-techniques" target= _blank"><img src="images/slider/02.jpg" alt="Slider Image 2" title="3ds Max: Tips, Tricks & Techniques" /></a>
+<a href="https://www.linkedin.com/learning/powerpoint-tips-weekly" target= _blank"><img src="images/slider/03.jpg" alt="Slider Image 3" title="PowerPoint Tips Weekly" /></a>
+<a href="https://www.linkedin.com/learning/sketchup-tips-tricks" target= _blank"><img src="images/slider/04.jpg" alt="Slider Image 4" title="SketchUp: Tips & Tricks" /></a>
+<a href="https://www.linkedin.com/learning/drawing-vector-graphics-laboratory" target= _blank"><img src="images/slider/05.jpg" alt="Slider Image 5" title="Drawing Vector Graphics Laboratory" /></a>
+<a href="https://www.linkedin.com/learning/photo-tools-weekly" target= _blank"><img src="images/slider/06.jpg" alt="Slider Image 6" title="Photo Tools Weekly" /></a>
+<a href="https://www.linkedin.com/learning/blender-tips-tricks-techniques" target= _blank"><img src="images/slider/07.jpg" alt="Slider Image 7" title="Blender: Tips, Tricks, & Techniques" /></a>

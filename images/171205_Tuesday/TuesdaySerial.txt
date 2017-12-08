@@ -1,15 +1,15 @@
 <a href="https://www.linkedin.com/learning/mobile-photography-weekly" target= _blank"><img src="images/slider/01.jpg" alt="Slider Image 1" title="Mobile Photography Weekly" /></a>
-                    <a href="https://www.linkedin.com/learning/virtual-augmented-reality-for-3d-weekly" target= _blank"><img src="images/slider/02.jpg" alt="Slider Image 2" title="Virtual & Augmented Reality for 3D Weekly" /></a>
-                    <a href="https://www.linkedin.com/learning/2d-animation-tips-tricks" target= _blank"><img src="images/slider/03.jpg" alt="Slider Image 3" title="2D Animation: Tips & Tricks" /></a>
-                    <a href="https://www.linkedin.com/learning/mastering-web-developer-interview-code" target= _blank"><img src="images/slider/04.jpg" alt="Slider Image 4" title="Mastering Web Developer Interview Code" /></a>
-                    <a href="https://www.linkedin.com/learning/linux-tips-weekly" target= _blank"><img src="images/slider/05.jpg" alt="Slider Image 5" title="Linux Tips Weekly" /></a>
-                    <a href="https://www.linkedin.com/learning/bim-tools-weekly" target= _blank"><img src="images/slider/06.jpg" alt="Slider Image 6" title="BIM Tools Weekly" /></a>
-                    <a href="https://www.linkedin.com/learning/zbrush-tips-tricks" target= _blank"><img src="images/slider/07.jpg" alt="Slider Image 7" title="ZBrush: Tips & Tricks" /></a>
-                    <a href="https://www.linkedin.com/learning/excel-tips-weekly" target= _blank"><img src="images/slider/08.jpg" alt="Slider Image 8" title="Excel Tips Weekly" /></a>
-                    <a href="https://www.linkedin.com/learning/revit-tips-tricks-and-troubleshooting" target= _blank"><img src="images/slider/09.jpg" alt="Slider Image 9" title="Revit: Tips Tricks and Troubleshooting" /></a>
-                    <a href="https://www.linkedin.com/learning/css-shorts-weekly" target= _blank"><img src="images/slider/10.jpg" alt="Slider Image 10" title="CSS Shorts Weekly" /></a>
-                    <a href="https://www.linkedin.com/learning/video-post-productivity-weekly" target= _blank"><img src="images/slider/11.jpg" alt="Slider Image 11" title="Video Post Productivity Weekly" /></a>
-                    <a href="https://www.linkedin.com/learning/career-clinic-developer-insights" target= _blank"><img src="images/slider/12.jpg" alt="Slider Image 12" title="Career Clinic: Developer Insights" /></a>
-                    <a href="https://www.linkedin.com/learning/deke-s-techniques" target= _blank"><img src="images/slider/13.jpg" alt="Slider Image 13" title="Deke's Techniques" /></a>
-                    <a href="https://www.linkedin.com/learning/business-apps-for-sharepoint-monthly" target= _blank"><img src="images/slider/14.jpg" alt="Slider Image 14" title="Business Apps for SharePoint Monthly" /></a>
-                    <a href="https://www.linkedin.com/learning/rhino-tips-tricks-techniques" target= _blank"><img src="images/slider/15.jpg" alt="Slider Image 15" title="Rhino: Tips, Tricks & Techniques" /></a>
+<a href="https://www.linkedin.com/learning/virtual-augmented-reality-for-3d-weekly" target= _blank"><img src="images/slider/02.jpg" alt="Slider Image 2" title="Virtual & Augmented Reality for 3D Weekly" /></a>
+<a href="https://www.linkedin.com/learning/2d-animation-tips-tricks" target= _blank"><img src="images/slider/03.jpg" alt="Slider Image 3" title="2D Animation: Tips & Tricks" /></a>
+<a href="https://www.linkedin.com/learning/mastering-web-developer-interview-code" target= _blank"><img src="images/slider/04.jpg" alt="Slider Image 4" title="Mastering Web Developer Interview Code" /></a>
+<a href="https://www.linkedin.com/learning/linux-tips-weekly" target= _blank"><img src="images/slider/05.jpg" alt="Slider Image 5" title="Linux Tips Weekly" /></a>
+<a href="https://www.linkedin.com/learning/bim-tools-weekly" target= _blank"><img src="images/slider/06.jpg" alt="Slider Image 6" title="BIM Tools Weekly" /></a>
+<a href="https://www.linkedin.com/learning/zbrush-tips-tricks" target= _blank"><img src="images/slider/07.jpg" alt="Slider Image 7" title="ZBrush: Tips & Tricks" /></a>
+<a href="https://www.linkedin.com/learning/excel-tips-weekly" target= _blank"><img src="images/slider/08.jpg" alt="Slider Image 8" title="Excel Tips Weekly" /></a>
+<a href="https://www.linkedin.com/learning/revit-tips-tricks-and-troubleshooting" target= _blank"><img src="images/slider/09.jpg" alt="Slider Image 9" title="Revit: Tips Tricks and Troubleshooting" /></a>
+<a href="https://www.linkedin.com/learning/css-shorts-weekly" target= _blank"><img src="images/slider/10.jpg" alt="Slider Image 10" title="CSS Shorts Weekly" /></a>
+<a href="https://www.linkedin.com/learning/video-post-productivity-weekly" target= _blank"><img src="images/slider/11.jpg" alt="Slider Image 11" title="Video Post Productivity Weekly" /></a>
+<a href="https://www.linkedin.com/learning/career-clinic-developer-insights" target= _blank"><img src="images/slider/12.jpg" alt="Slider Image 12" title="Career Clinic: Developer Insights" /></a>
+<a href="https://www.linkedin.com/learning/deke-s-techniques" target= _blank"><img src="images/slider/13.jpg" alt="Slider Image 13" title="Deke's Techniques" /></a>
+<a href="https://www.linkedin.com/learning/business-apps-for-sharepoint-monthly" target= _blank"><img src="images/slider/14.jpg" alt="Slider Image 14" title="Business Apps for SharePoint Monthly" /></a>
+<a href="https://www.linkedin.com/learning/rhino-tips-tricks-techniques" target= _blank"><img src="images/slider/15.jpg" alt="Slider Image 15" title="Rhino: Tips, Tricks & Techniques" /></a>
